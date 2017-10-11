@@ -32,7 +32,7 @@ sdjgfdsh
   #   sql: ${lifetime_orders} ;;
   # }
 }
-
+sdfghjkl
 # view: test_core_view {
 #   # Or, you could make this view a derived table, like this:
 #   derived_table: {
